@@ -5,7 +5,7 @@
 
 **Section 407:**
 
-Saqib and Edward: Unt 2  
+Saqib and Edward: Unit 2  
 Daniel and Ravindra: Unit 3  
 Paul and Amber: Unit 4  
 Neha and Fabio: Unit 5  

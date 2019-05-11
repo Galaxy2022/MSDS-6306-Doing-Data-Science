@@ -12,6 +12,7 @@ library(fpp)
 data(ausair)
 
 air = window(ausair, start = 1990, end = 2004)
+head(air)
 
 plot(air,ylab = "Airline Passegners", xlab = "Year")
 

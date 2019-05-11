@@ -1,4 +1,4 @@
-# Welcome to the MSDS 6306 Git Hub Repository!
+# Welcome to the MSDS 6306 GitHub Repository!
 ## Here you will find the materials for each unit.  
 
 ### Data Science News of the Week Order:
